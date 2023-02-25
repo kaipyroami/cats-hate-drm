@@ -6,6 +6,10 @@ This is just info I have gathered. If you are able to make any further descoveri
 
 The CatGenie AI uses solution for the older 120 model. Here's the [Datasheet](https://www.st.com/en/nfc/sri512.html) for the SRT/SRI512 chip that is installed in the label of the washing solution.
 
+![SRI512 Chip](media/20230223_161637.jpg)
+![SRI512 Chip](media/20230223_163329.jpg)
+![SRI512 Chip](media/20230224_125355.jpg)
+
 Address 5, 6 are the wash counters. The examples are from the 120/240 cycle containers (0x78 = 120). I am assuming that for the heavy wash it decrements both counters and the light wash only one counter is decremented in an alternating fashion. 
 
 ![SRI512 Memory Map](media/SRI512-mm.png)
