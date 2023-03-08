@@ -6,7 +6,7 @@ Inspired by [This repo](https://github.com/davidhampgonsalves/CR14-emulator-for-
 
 ## Tag Info
 
-The CatGenie AI uses solution for the older 120 model. Here's the [Datasheet](https://www.st.com/en/nfc/sri512.html) for the SRT/SRI512 chip that is installed in the label of the washing solution.
+The CatGenie AI uses solution for the older 120 model. Here's the [Datasheet](https://www.st.com/en/nfc/sri512.html) for the SRT/SRI512 chip that is installed in the label of the washing solution. The newer detergent cartriges appear to use the SRIX4K per [this conversation](https://github.com/davidhampgonsalves/CR14-emulator-for-CatGenie-120/issues/10#issuecomment-1460963416).
 
 ![SRI512 Chip](media/20230223_161637.jpg)
 ![SRI512 Chip](media/20230223_163329.jpg)
