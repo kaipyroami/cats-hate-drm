@@ -5,7 +5,7 @@ This is just info I have gathered. If you are able to make any further descoveri
 Inspired by [This repo](https://github.com/davidhampgonsalves/CR14-emulator-for-CatGenie-120).
 
 ## Cheap tools to read and write the tags
-You can use this with one of these to read them.
+You can use [this](https://github.com/hassananayi/nfc-srix-programmer) with one of [these](https://www.amazon.com/gp/product/B07FCLY4S9) to read them too.
 
 ## Tag Info
 
